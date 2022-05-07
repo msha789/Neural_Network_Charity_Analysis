@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-## Overview of the Analysis
+## Overview of Analysis
 This is a machine learning analysis, including neural networks, to create a binary classifer that is capable of predicting whether applicants will be successful if funded by a charity. 
 
 ## Results
@@ -22,9 +22,9 @@ SPECIAL_CONSIDERATIONS can be dropped because there is only a small percentage o
 
 ## Summary
 
-Overall, by increasing the accuracy above 75% we are able to correctly classify each of the points in the test data 75% of the time. And, an applicant has a 80% chance of being successful if they have the following:
+Overall, by increasing the accuracy above 75% we are able to correctly classify each of the points in the test data 75% of the time. And, an applicant has an 80% chance of being successful if they have the following:
 * The NAME of the applicant appears more than 5 times (they have applied more than 5 times)
 * The type of APPLICATION is one of the following; T3, T4, T5, T6, T7, T8, T10, and T19
 * The application has the following CLASSIFICATION; C1000, C2000, C3000, C1200, and C2100.
 
-A good model to rec\Using this model produces a 78% accuracy.
+Using this model produces a 78% accuracy. A different model - Random Forest model - would also be recommended for such analysis as that would also produce similar results. 

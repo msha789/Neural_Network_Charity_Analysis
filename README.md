@@ -29,4 +29,4 @@ Overall, by increasing the accuracy above 75% we are able to correctly classify 
 
 Using this model produces a 78% accuracy. A different model - Random Forest model - would also be recommended for such analysis as that would also produce similar results. 
 
-![Pic]()
+![Pic](https://github.com/msha789/Neural_Network_Charity_Analysis/blob/c218bf3afeaa3b4d474c6e67b754bc82b102e358/Pic/Screen%20Shot%202022-05-06%20at%2011.26.29%20PM.png)

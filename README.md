@@ -28,3 +28,5 @@ Overall, by increasing the accuracy above 75% we are able to correctly classify 
 * The application has the following CLASSIFICATION; C1000, C2000, C3000, C1200, and C2100.
 
 Using this model produces a 78% accuracy. A different model - Random Forest model - would also be recommended for such analysis as that would also produce similar results. 
+
+![Pic]()
